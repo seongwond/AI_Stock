@@ -5,6 +5,9 @@ requests
 beautifulsoup4
 PyQt6
 pyqtdarktheme
+openai
+pykrx
+
 openai  # If we use LLM later, but for now user asked for logic based. 
 # User mentioned "LLM API to make natural comments". I'll add openai just in case or use simple string templates first as requested in the "detailed prompt" example which didn't explicitly ask for API key setup yet, but the prompt said "LLM API를 활용하면".
 # For the "detailed prompt" example provided by user, it says "analyzing logic" and "text output".
